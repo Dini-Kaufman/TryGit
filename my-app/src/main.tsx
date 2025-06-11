@@ -5,7 +5,8 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   //שלום דינייייי
-  <StrictMode>
+  //שלום בתיה 
+
     <App />
   </StrictMode>,
 )
