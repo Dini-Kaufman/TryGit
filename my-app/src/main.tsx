@@ -5,6 +5,7 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   //שלום בתיה 
+  //מה נשמע
   <StrictMode>
     <App />
   </StrictMode>,
